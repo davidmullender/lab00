@@ -68,4 +68,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-It would not be a good way of conveying information, as there would be a wide variety of different hobbies, so there would be a large number of bars on the graph, with most of the values just being 1.
+It would not be a good way of conveying information, as there would be a wide variety of different hobbies, so there would be a large number of bars on the graph, with most of the values just being 1. Grouping hobbies into larger categories, and then visualising them as a bar graph could display the data nicer.
